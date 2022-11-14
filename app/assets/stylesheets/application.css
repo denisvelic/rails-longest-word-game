@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+
+span {
+  background-color: rgb(87, 159, 237);
+  margin-top: 16px;
+  margin-bottom: 16px;
+  margin-left: 4px;
+  margin-right: 4px;
+  padding: 16px;
+  font-size: 32px;
+  width: 100px;
+  height: 100px;
+}
+
+.forms {
+  margin-top: 30px;
+}
